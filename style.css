@@ -1,0 +1,14 @@
+.nav-item{
+    font-size: 20px;
+    font-weight: 600;
+}
+.carousel-item img{
+    height: 90vh;
+    overflow: hidden;
+    opacity: .8;
+}
+.carousel-caption img{
+    height: 300px;
+    width: 300px;
+    opacity: 1;
+}
